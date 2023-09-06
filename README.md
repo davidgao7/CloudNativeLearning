@@ -1,6 +1,8 @@
 # Apply machine learning / deep learning models in real life
 - This is the place where I want to share what I've learned while applying machine learning/deep learning in industries.
 
+![cloud-native](cloud_native_concepts.png)
+
 ## What I've learned in industry
 - Docker (best tool I've learned in my opinion)
 - App service deployment
